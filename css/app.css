@@ -1,0 +1,50 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* debug */
+
+.debug .row {
+    border: 2px solid springgreen;
+    padding: 10px;
+}
+
+.debug [class^='col'] {
+    border: 2px solid red;
+    padding: 10px;
+}
