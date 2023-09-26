@@ -27,6 +27,14 @@ section:nth-child(odd) {
     max-width: 492px;
 }
 
+.ms-card-portfolio_image >img {
+    border-radius: 15px;
+}
+
+.ms-card {
+    border-radius: 10px;
+}
+
 .ms-button {
     line-height:43px;
     border: 1px solid white;
@@ -72,6 +80,17 @@ section:nth-child(odd) {
     background-color: #2C3E50;
 }
 
+.icon-star-line {
+    font-size: 30px;
+}
+
+.line-star {
+    background-color: currentColor;
+    display: block;
+    height: 5px;
+    border-radius: 999px;
+    width: 138px;
+}
 
 
 
@@ -91,10 +110,7 @@ section:nth-child(odd) {
 
 
 
-
-
-
-/* debug */
+/* debug
 
 .debug .row {
     border: 2px solid springgreen;
@@ -104,4 +120,4 @@ section:nth-child(odd) {
 .debug [class^='col'] {
     border: 2px solid red;
     padding: 10px;
-}
+} */
