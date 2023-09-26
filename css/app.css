@@ -20,7 +20,7 @@ section:nth-child(odd) {
 }
 
 .ms-card-image {
-    max-width: 226px;
+    width: 226px;
 }
 
 .ms-card-portfolio_image {
@@ -36,6 +36,22 @@ section:nth-child(odd) {
     color: white;
 }
 
+.ms-input-text {
+    width: 100%;
+    line-height: 40px;
+    border: none;
+    border-bottom: 1px solid #DFDFDF;
+}
+
+.ms-input-button {
+    background-color: #1ABC9C;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    text-decoration: none;
+    line-height: 45px;
+    padding:0 20px;
+}
 
 
 
