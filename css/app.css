@@ -19,13 +19,14 @@ section:nth-child(odd) {
     background-color: #1ABC9C;
 }
 
-.img-fluid {
-   width: 226px;
-   height: 252px; 
+.ms-card-image {
+    max-width: 226px;
 }
 
 
-
+.ms-card-portfolio_image {
+    max-width: 492px;
+}
 
 
 
